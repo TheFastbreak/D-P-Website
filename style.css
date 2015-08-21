@@ -1,0 +1,19 @@
+#header{
+	background-color: #000001;
+}
+
+#header_text{
+	color: white;
+	font-family: gabriola;
+}
+nav{
+	margin-top: 32px;
+	color: white;
+}
+
+#nav li a{
+	font-size: 1.2em;
+	color: white;
+	font-family: gabriola;
+}
+
