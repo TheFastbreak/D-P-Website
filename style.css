@@ -17,3 +17,16 @@ nav{
 	font-family: gabriola;
 }
 
+#background{
+	background-color: black;
+}
+
+#city{
+	
+}
+#moon{
+	float: right;
+}
+#clouds{
+	opacity: 0;
+}
