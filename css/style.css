@@ -27,3 +27,11 @@ nav{
 #moon{
 	float: right;
 }
+#clouds{
+	opacity: .3;
+	max-width: calc(100% - 20px);
+}
+
+#stars{
+	max-width: calc(100% - 20px);
+}
