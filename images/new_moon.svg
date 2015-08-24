@@ -18,7 +18,7 @@
     </defs>
     <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
         <g id="Desktop-HD" sketch:type="MSArtboardGroup" filter="url(#filter-1)" fill="#FFFFFF" opacity="0.858150653">
-            <path d="M3008.5,242 C3053.51121,242 3090,205.511207 3090,160.5 C3090,115.488793 3053.51121,79 3008.5,79 C2963.48879,79 2927,115.488793 2927,160.5 C2927,205.511207 2963.48879,242 3008.5,242 Z" id="Moon" sketch:type="MSShapeGroup"></path>
+            <path d="M3027,279 C3082.22847,279 3127,234.228475 3127,179 C3127,123.771525 3082.22847,79 3027,79 C2971.77153,79 2927,123.771525 2927,179 C2927,234.228475 2971.77153,279 3027,279 Z" id="Moon" sketch:type="MSShapeGroup"></path>
         </g>
     </g>
 </svg>
